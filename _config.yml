@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Muxi Lyu"
+title                    : "Muxi's Wonderland"
 title_separator          : "-"
-name                     : &name "Muxi Lyu"
+name                     : &name "Muxi Lyu's Personal HomePage"
 description              : &description "Hi! I’m Muxi Lyu — an aspiring computer science researcher passionate about software security, program analysis, and machine learning."
 url                      : https://muxilyulucy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "MuxiLyuLucy/muxilyulucy.github.io"
 author:
   # Biographic information
   avatar           : "DSC_5729.jpg"
-  name             : "Muxi Lyu"
+  name             : "Muxi Lyu (吕沐曦)"
   pronouns         : "she/her/hers"  
   bio              : "M.S.E. CS ’24 | B.S. CS & AMS ’24 | Research Assistant"
   location         : "Baltimore, MD"
