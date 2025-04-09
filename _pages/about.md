@@ -50,10 +50,12 @@ Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi
 # Honors & Awards
 ---
 
-- **Michael J. Muuss Research Award**, Spring 2024  
+- **Honorable Mention in the NSF GRFP competition**, 2025
+
+- **Michael J. Muuss Research Award**, 2024  
   *$3,000 awarded by the JHU Computer Science Department*
 
-- **Graduation with Honors in Computer Science**, Spring 2024
+- **Graduation with Honors in Computer Science**, 2024
 
 - **Dean’s List**, Fall 2021 – Spring 2024
 <br><br>
