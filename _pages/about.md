@@ -24,8 +24,9 @@ Beyond academic research, I was fortunate to join Team *42-b3yond-6ug* in the **
 
 ### Follow My Flow: Unveiling Client-Side Prototype Pollution Gadgets from One Million Real-World Websites [[paper]](https://yinzhicao.org/ProbetheProto/FollowMyFlow.pdf)
 Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi Cao  
-*To appear at IEEE Symposium on Security and Privacy (S&P Oakland), 2025*
+*In the Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2025.*
 
+- 🏆 **<span style="color: red;">Distinguished Paper Award</span>**
 - Our evaluation revealed **133 zero-day gadgets** not found by prior work. Notably, one was found in **Meta's software** (acknowledged with a bug bounty), and another in the **Vue framework**, resulting in **CVE-2024-6783**. Additionally, GALA identified **23 websites** where prototype pollution vulnerabilities — previously deemed inconsequential — led to real consequences through the discovered gadgets.
 <br><br>
 
