@@ -28,15 +28,15 @@ I completed my M.S.E. in Computer Science (Fall 2024) and my B.S. in Computer Sc
 ---
 
 ### Follow My Flow: Unveiling Client-Side Prototype Pollution Gadgets from One Million Real-World Websites [[paper]](https://yinzhicao.org/ProbetheProto/FollowMyFlow.pdf)
-Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi Cao  
+Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi Cao<br>
 *In the Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2025.*
 
 - 🏆 **<span style="color: red;">Distinguished Paper Award</span>**
 - Our evaluation revealed **133 zero-day gadgets** not found by prior work. Notably, one was found in **Meta's software** (acknowledged with a bug bounty), and another in the **Vue framework**, resulting in **CVE-2024-6783**. Additionally, GALA identified **23 websites** where prototype pollution vulnerabilities — previously deemed inconsequential — led to real consequences through the discovered gadgets.
 
 ### The First Large-Scale Systematic Study of Python Class Pollution Vulnerability ###
-Zhengyu Liu, Jiacheng Zhong, Jianjia Yu, ***Muxi Lyu***, Zifeng Kang, and Yinzhi Cao
-*To appear in the proceedings of IEEE Symposium on Security and Privacy (S&P Oakland), 2026.*
+Zhengyu Liu, Jiacheng Zhong, Jianjia Yu, ***Muxi Lyu***, Zifeng Kang, and Yinzhi Cao<br>
+*To appear in the Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2026.*
 <br><br>
 
 
