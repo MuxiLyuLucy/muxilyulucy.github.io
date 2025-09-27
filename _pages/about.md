@@ -10,13 +10,18 @@ redirect_from:
 # About Me
 ---
 
-I'm Muxi Lyu, a security research assistant at Johns Hopkins University, where I completed my **M.S.E. in Computer Science** (Fall 2024) and my **B.S. in Computer Science** with a second major in **Applied Mathematics and Statistics** (Spring 2024). Throughout my time at Hopkins, I’ve been deeply grateful to be advised by **Prof. Yinzhi Cao**, whose mentorship has shaped and sparked my passion for security research.
+I’m Muxi Lyu, a 1st-year Ph.D. student in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/), advised by [**Prof. David Wagner**](https://people.eecs.berkeley.edu/~daw/) and [**Prof. Koushik Sen**](https://people.eecs.berkeley.edu/~ksen/). I am affiliated with the [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/) and the [Sky Computing Lab](https://sky.cs.berkeley.edu/).  
 
-In Fall 2025, I’ll begin my **Ph.D. in Computer Science** at **UC Berkeley**.
+My research interests lie at the intersection of **AI Security** and **AI for Security**, spanning **web and software security**, **program analysis**, and **AI-driven vulnerability detection**. Recently, I focus on:  
 
-My research lies at the intersection of **web and software security**, **program analysis**, and **AI for security**. I’m particularly interested in hybrid approaches that combine the precision of static and dynamic analysis with the predictive power of large language models (LLMs). My goal is to develop AI-empowered security techniques that detect vulnerabilities before an attack occurs and strengthen defenses against exploitation — ensuring stronger protection of users’ data, privacy, and digital trust.
+- **Secure Web Agents**: Designing intelligent web-browsing agents resilient to attacks such as prompt injection, malicious content manipulation, and unsafe action execution.  
+- **Secure Code Generation**: Leveraging large language models (LLMs) to synthesize code that meets functional requirements while avoiding security vulnerabilities.  
+- **AI for Software Testing**: Applying AI techniques to enhance fuzzing, vulnerability detection, and automated test generation for large-scale software systems.  
 
-Beyond academic research, I was fortunate to join Team *42-b3yond-6ug* in the **DARPA AIxCC competition**, where we advanced to the final round (Top 7) and were awarded $2 million in August 2025.<br><br>
+My long-term goal is to create **AI-empowered security techniques** that proactively detect vulnerabilities and reinforce defenses against exploitation — ensuring stronger protection of users’ data, privacy, and digital trust.  
+
+I completed my M.S.E. in Computer Science (Fall 2024) and my B.S. in Computer Science with a second major in Applied Mathematics and Statistics (Spring 2024) at [Johns Hopkins University](https://www.cs.jhu.edu/). Throughout my time at Hopkins, I’ve been deeply grateful to be advised by [**Prof. Yinzhi Cao**](https://yinzhicao.org/), whose mentorship has shaped and sparked my passion for security research.  
+<br><br>
 
 
 # Publications
@@ -28,6 +33,10 @@ Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi
 
 - 🏆 **<span style="color: red;">Distinguished Paper Award</span>**
 - Our evaluation revealed **133 zero-day gadgets** not found by prior work. Notably, one was found in **Meta's software** (acknowledged with a bug bounty), and another in the **Vue framework**, resulting in **CVE-2024-6783**. Additionally, GALA identified **23 websites** where prototype pollution vulnerabilities — previously deemed inconsequential — led to real consequences through the discovered gadgets.
+
+### The First Large-Scale Systematic Study of Python Class Pollution Vulnerability ###
+Zhengyu Liu, Jiacheng Zhong, Jianjia Yu, ***Muxi Lyu***, Zifeng Kang, and Yinzhi Cao
+*To appear in the proceedings of IEEE Symposium on Security and Privacy (S&P Oakland), 2026.*
 <br><br>
 
 
@@ -51,10 +60,15 @@ Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi
 # Honors & Awards
 ---
 
+- **Distinguished Paper Award, IEEE S&P (Oakland)**, 2025
+
 - **Honorable Mention in the NSF GRFP competition**, 2025
 
 - **Michael J. Muuss Research Award**, 2024  
-  *$3,000 awarded by the JHU Computer Science Department*
+  *$3,000 award by the JHU Computer Science Department*
+
+- **Finalist – DARPA AI Cyber Challenge (AIxCC)**, with Team 42-b3yond-6ug, 2024
+  *$2,000,000 team award*
 
 - **Graduation with Honors in Computer Science**, 2024
 
