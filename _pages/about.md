@@ -10,15 +10,13 @@ redirect_from:
 # About Me
 ---
 
-I’m Muxi Lyu, a 1st-year Ph.D. student in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/), advised by [**Prof. David Wagner**](https://people.eecs.berkeley.edu/~daw/) and [**Prof. Koushik Sen**](https://people.eecs.berkeley.edu/~ksen/). I am affiliated with the [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/) and the [Sky Computing Lab](https://sky.cs.berkeley.edu/).  
+I’m Muxi Lyu, a 2nd-year Ph.D. student in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/), advised by [**Prof. David Wagner**](https://people.eecs.berkeley.edu/~daw/) and [**Prof. Koushik Sen**](https://people.eecs.berkeley.edu/~ksen/). I am affiliated with the [Sky Computing Lab](https://sky.cs.berkeley.edu/)and the [Berkeley Artificial Intelligence Research (BAIR) Lab](https://bair.berkeley.edu/). 
 
-My research interests lie at the intersection of **AI Security** and **AI for Security**, spanning **web and software security**, **program analysis**, and **AI-driven vulnerability detection**. Recently, I focus on:  
+My research interests lie at the intersection of AI Security and AI for Security, with a central theme of **building secure and trustworthy systems throughout their lifecycle**. My recent work spans three layers:
 
-- **Secure Web Agents**: Designing intelligent web-browsing agents resilient to attacks such as prompt injection, malicious content manipulation, and unsafe action execution.  
-- **Secure Code Generation**: Leveraging large language models (LLMs) to synthesize code that meets functional requirements while avoiding security vulnerabilities.  
-- **AI for Software Testing**: Applying AI techniques to enhance fuzzing, vulnerability detection, and automated test generation for large-scale software systems.  
-
-My long-term goal is to create **AI-empowered security techniques** that proactively detect vulnerabilities and reinforce defenses against exploitation — ensuring stronger protection of users’ data, privacy, and digital trust.  
+- **Code Security**: Scalable discovery, reliable verification, and secure-by-design remediation of vulnerabilities in real-world software systems.
+- **Deployment Security**: Securing software as it is configured, deployed, and operated across cloud and edge environments.
+- **Physical-System Security**: Securing AI-enabled systems as they interact with and act in dynamic physical environments.
 
 I completed my M.S.E. in Computer Science (Fall 2024) and my B.S. in Computer Science with a second major in Applied Mathematics and Statistics (Spring 2024) at [Johns Hopkins University](https://www.cs.jhu.edu/). Throughout my time at Hopkins, I’ve been deeply grateful to be advised by [**Prof. Yinzhi Cao**](https://yinzhicao.org/), whose mentorship has shaped and sparked my passion for security research.  
 <br><br>
@@ -34,9 +32,9 @@ Zifeng Kang, ***Muxi Lyu***, Zhengyu Liu, Jianjia Yu, Runqi Fan, Song Li, Yinzhi
 - 🏆 **<span style="color: red;">Distinguished Paper Award</span>**
 - Our evaluation revealed **133 zero-day gadgets** not found by prior work. Notably, one was found in **Meta's software** (acknowledged with a bug bounty), and another in the **Vue framework**, resulting in **CVE-2024-6783**. Additionally, GALA identified **23 websites** where prototype pollution vulnerabilities — previously deemed inconsequential — led to real consequences through the discovered gadgets.
 
-### The First Large-Scale Systematic Study of Python Class Pollution Vulnerability ###
+### The First Large-Scale Systematic Study of Python Class Pollution Vulnerability  [[paper]](https://yinzhicao.org/class-pollution/Pyrl.pdf)
 Zhengyu Liu, Jiacheng Zhong, Jianjia Yu, ***Muxi Lyu***, Zifeng Kang, and Yinzhi Cao<br>
-*To appear in the Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2026.*
+*In the Proceedings of the IEEE Symposium on Security and Privacy (Oakland), 2026.*
 <br><br>
 
 
